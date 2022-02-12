@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SimhaKitchen/static/css/main.e6c13ad2.css",
-    "main.js": "/SimhaKitchen/static/js/main.9d198e52.js",
+    "main.js": "/SimhaKitchen/static/js/main.bd38fc96.js",
     "static/js/787.b7da02da.chunk.js": "/SimhaKitchen/static/js/787.b7da02da.chunk.js",
     "index.html": "/SimhaKitchen/index.html",
     "main.e6c13ad2.css.map": "/SimhaKitchen/static/css/main.e6c13ad2.css.map",
-    "main.9d198e52.js.map": "/SimhaKitchen/static/js/main.9d198e52.js.map",
+    "main.bd38fc96.js.map": "/SimhaKitchen/static/js/main.bd38fc96.js.map",
     "787.b7da02da.chunk.js.map": "/SimhaKitchen/static/js/787.b7da02da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9d198e52.js"
+    "static/js/main.bd38fc96.js"
   ]
 }
