@@ -2,6 +2,10 @@
 
 This Project contains My Source Code in React, through which I had built My Recepie Finder Application. 
 
+## Concepts
+
+***I had used the concept of Deboouncing, desiging the UI with Material-UI, API Integration using axios!!
+
 ## Link
 
 You can find out the [Application](https://c1phani1simha.github.io/SimhaKitchen/) Here.
